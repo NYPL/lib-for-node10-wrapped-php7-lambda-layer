@@ -1,0 +1,22 @@
+{
+  "name": "lib-for-node10-wrapped-php7-lambda-layer",
+  "version": "1.0.0",
+  "description": "This is a simple [Lambda Layer](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html#configuration-layers-manage) for PHP7 apps that use Node10 as a wrapper. It is published in our `nypl-digital-dev` AWS account as [lib-for-node10-wrapped-php7](https://console.aws.amazon.com/lambda/home?region=us-east-1#/layers/lib-for-node10-wrapped-php7/versions/1).",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NYPL/lib-for-node10-wrapped-php7-lambda-layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NYPL/lib-for-node10-wrapped-php7-lambda-layer/issues"
+  },
+  "homepage": "https://github.com/NYPL/lib-for-node10-wrapped-php7-lambda-layer#readme"
+}
